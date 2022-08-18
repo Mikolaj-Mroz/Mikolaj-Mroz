@@ -1,5 +1,5 @@
 <h1 align="center">Hi, my name is Mikołaj</h1>
-<h3 align="center">An aspiring backend developer from poland.</h3>
+<h3 align="center">An aspiring backend developer from Poland.</h3>
 
 
 # 💫 About Me:
