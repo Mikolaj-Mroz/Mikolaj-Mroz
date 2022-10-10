@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Statsify](http://statsify.eu-central-1.elasticbeanstalk.com/)
+- 🔭 I’m currently working on [Statsify](https://github.com/Mikolaj-Mroz/Statsify/)
 
 - 🌱 I’m currently learning **Vue**
 
