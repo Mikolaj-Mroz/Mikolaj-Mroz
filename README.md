@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [Statsify](https://github.com/Mikolaj-Mroz/Statsify/)
+- 🔭 I’m currently working on [Lol-Api-Wrapper](https://github.com/Mikolaj-Mroz/lol-api-wrapper)
 
 - 🌱 I’m currently learning **Vue**
 
