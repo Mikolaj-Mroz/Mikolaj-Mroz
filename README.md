@@ -51,6 +51,4 @@ Desktop application that aggregates and compares products from multiple Polish o
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mikolaj-mroz&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mikolaj-mroz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mikolaj-mroz&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
